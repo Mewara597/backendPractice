@@ -1,0 +1,11 @@
+{
+  "name": "chaiorcode",
+  "version": "1.0.0",
+  "description": "backend practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Siddarth",
+  "license": "ISC"
+}
